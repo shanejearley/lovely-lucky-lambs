@@ -22,7 +22,6 @@ Test cases
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
--- Python cases --
 Input:
 solution.solution(143)
 Output:
